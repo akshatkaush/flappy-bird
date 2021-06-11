@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\dell\Desktop\GitHub\flappy-bird\flappy_bird_game\ConsoleApplication4\ConsoleApplication4.cpp(353,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication4.vcxproj -> C:\Users\dell\Desktop\GitHub\flappy-bird\flappy_bird_game\Debug\ConsoleApplication4.exe
