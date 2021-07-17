@@ -2,9 +2,9 @@
 A common game designed in C++ using opengl library. This project used most of the core concepts of computer graphics including 2D-translation, rotationc etc.
 
 ### Run
-To run this project OPEN_GL library must be installed in the system.
+To run this project OPEN_GL library must be installed in the system.  
 Installation Guide: https://www.absingh.com/opengl/
-After this just run the console appliation by making a new project in the editor.
+After this just run the console application by making a new project in the editor.
 
 ### Sample Images
 
