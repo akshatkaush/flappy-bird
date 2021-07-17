@@ -3,7 +3,7 @@ A common game designed in C++ using opengl library. This project used most of th
 
 ### Run
 To run this project OPEN_GL library must be installed in the system.  
-Installation Guide: https://www.absingh.com/opengl/
+Installation Guide: https://www.absingh.com/opengl/  
 After this just run the console application by making a new project in the editor.
 
 ### Sample Images
