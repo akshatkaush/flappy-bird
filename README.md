@@ -8,6 +8,6 @@ After this just run the console appliation by making a new project in the editor
 
 ### Sample Images
 
-<img src="https://github.com/akshatkaush/flappy-bird/blob/main/sample%20images/game_start.jpeg?raw=true width="568.5" height="286.5""  >
+<img src="https://github.com/akshatkaush/flappy-bird/blob/main/sample%20images/game_start.jpeg?raw=true" width="568.5" height="286.5" >
 <img src="https://github.com/akshatkaush/flappy-bird/blob/main/sample%20images/game_play.jpeg?raw=true"  >
 <img src="https://github.com/akshatkaush/flappy-bird/blob/main/sample%20images/game_end.jpeg?raw=true"  >
